@@ -139,8 +139,8 @@ Even with a simple simulation, we can extract valuable insights about system per
 
 ## 👤 Author
 
-**Islam**
-Master 2 - Big Data
+**Hala Mohammed Islam**
+Master 1 - IOT
 University of Eloued
 
 ---
